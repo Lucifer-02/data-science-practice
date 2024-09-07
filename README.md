@@ -4,14 +4,14 @@ Explore `Statistics for Data Science and Analytics` book.
 
 ## Progress
 
-- [ ] 1 Statistics and Data Science
+- [x] 1 Statistics and Data Science
   - [x] 1.1 Big Data: Predicting Pregnancy
-  - [ ] 1.2 Phantom Protection from Vitamin E
-  - [ ] 1.3 Statistician, Heal Thyself
-  - [ ] 1.4 Identifying Terrorists in Airports
-  - [ ] 1.5 Looking Ahead
-  - [ ] 1.6 Big Data and Statisticians
-    - [ ] 1.6.1 Data Scientists
+  - [x] 1.2 Phantom Protection from Vitamin E
+  - [x] 1.3 Statistician, Heal Thyself
+  - [x] 1.4 Identifying Terrorists in Airports
+  - [x] 1.5 Looking Ahead
+  - [x] 1.6 Big Data and Statisticians
+    - [x] 1.6.1 Data Scientists
 - [ ] 2 Designing and Carrying Out a Statistical Study
   - [ ] 2.1 Statistical Science
   - [ ] 2.2 Big Data
