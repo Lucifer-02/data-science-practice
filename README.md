@@ -1,6 +1,6 @@
 # data-science-practice
 
-Explore Statistics for Data Science and Analytics book
+Explore Statistics for Data Science and Analytics book.
 
 - [ ] 1. Statistics and Data Science
      - [ ] 1.1 Big Data: Predicting Pregnancy
