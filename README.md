@@ -277,7 +277,7 @@ Explore `Statistics for Data Science and Analytics` book.
        - [ ] 9.7.7 Visualizing Correlation
      - [ ] Exercises
 - [ ] 10. Regression
-      - [ ] 10.1 Finding the Regression Line by Eye
+	- [ ]  10.1 Finding the Regression Line by Eye
         - [ ] 10.1.1 Making Predictions Based on the Regression Line
       - [ ] 10.2 Finding the Regression Line by Minimizing Residuals
         - [ ] 10.2.1 The “Loss Function”
@@ -298,7 +298,7 @@ Explore `Statistics for Data Science and Analytics` book.
       - [ ] Exercises
 
 - [ ] 11. Multiple Linear Regression
-      - [ ] 11.1 Terminology
+	- [ ] 11.1 Terminology
       - [ ] 11.2 Example—Housing Prices
         - [ ] 11.2.1 Explaining Home Prices
         - [ ] 11.2.2 House Prices in Boston
@@ -342,7 +342,7 @@ Explore `Statistics for Data Science and Analytics` book.
           - [ ] 11.7.4.2 Estimating Confidence Intervals—The Bootstrap
       - [ ] Exercises
 - [ ] 12. Predicting Binary Outcomes
-      - [ ] 12.1 K-Nearest-Neighbors
+	- [ ] 12.1 K-Nearest-Neighbors
         - [ ] 12.1.1 Predicting Which Customers Might be Pregnant
         - [ ] 12.1.2 Small Hypothetical Example
         - [ ] 12.1.3 Setting k
