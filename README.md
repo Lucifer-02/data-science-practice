@@ -1,6 +1,6 @@
 # data-science-practice
 
-Explore Statistics for Data Science and Analytics book.
+Explore `Statistics for Data Science and Analytics` book.
 
 - [ ] 1. Statistics and Data Science
      - [ ] 1.1 Big Data: Predicting Pregnancy
@@ -9,7 +9,7 @@ Explore Statistics for Data Science and Analytics book.
      - [ ] 1.4 Identifying Terrorists in Airports
      - [ ] 1.5 Looking Ahead
      - [ ] 1.6 Big Data and Statisticians
-         - [ ] 1.6.1 Data Scientists
+       - [ ] 1.6.1 Data Scientists
 - [ ] 2. Designing and Carrying Out a Statistical Study
      - [ ] 2.1 Statistical Science
      - [ ] 2.2 Big Data
@@ -276,7 +276,9 @@ Explore Statistics for Data Science and Analytics book.
        - [ ] 9.7.6 Using the t Statistic
        - [ ] 9.7.7 Visualizing Correlation
      - [ ] Exercises
+
 - [ ] 10. Regression
+
       - [ ] 10.1 Finding the Regression Line by Eye
         - [ ] 10.1.1 Making Predictions Based on the Regression Line
       - [ ] 10.2 Finding the Regression Line by Minimizing Residuals
@@ -296,6 +298,7 @@ Explore Statistics for Data Science and Analytics book.
         - [ ] 10.5.3 Linear Regression Using scikit-learn
         - [ ] 10.5.4 Splitting Datasets and Evaluating Model Performance
       - [ ] Exercises
+
 - [ ] 11. Multiple Linear Regression
       - [ ] 11.1 Terminology
       - [ ] 11.2 Example—Housing Prices
