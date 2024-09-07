@@ -9,7 +9,7 @@ Explore Statistics for Data Science and Analytics book.
      - [ ] 1.4 Identifying Terrorists in Airports
      - [ ] 1.5 Looking Ahead
      - [ ] 1.6 Big Data and Statisticians
-     - [ ] 1.6.1 Data Scientists
+         - [ ] 1.6.1 Data Scientists
 - [ ] 2. Designing and Carrying Out a Statistical Study
      - [ ] 2.1 Statistical Science
      - [ ] 2.2 Big Data
