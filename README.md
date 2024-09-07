@@ -2,6 +2,8 @@
 
 Explore `Statistics for Data Science and Analytics` book.
 
+## Progress
+
 - [ ] 1 Statistics and Data Science
   - [ ] 1.1 Big Data: Predicting Pregnancy
   - [ ] 1.2 Phantom Protection from Vitamin E
