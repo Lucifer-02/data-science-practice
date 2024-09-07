@@ -280,13 +280,19 @@ Explore `Statistics for Data Science and Analytics` book.
 - [ ] 10. Regression
 
       - [ ] 10.1 Finding the Regression Line by Eye
+
         - [ ] 10.1.1 Making Predictions Based on the Regression Line
+
       - [ ] 10.2 Finding the Regression Line by Minimizing Residuals
+
         - [ ] 10.2.1 The “Loss Function”
+
       - [ ] 10.3 Linear Relationships
+
         - [ ] 10.3.1 Example: Workplace Exposure and PEFR
         - [ ] 10.3.2 Residual Plots
           - [ ] 10.3.2.1 How to Read the Payroll Residual Plot
+
       - [ ] 10.4 Prediction vs. Explanation
         - [ ] 10.4.1 Research Studies: Regression for Explanation
         - [ ] 10.4.2 Assessing the Performance of Regression for Explanation
